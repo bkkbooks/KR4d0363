@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0363/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部四
+  hash: sha256:feea65c2c5f7b24c3923896ddfefeaca5f2adb12a64602844adb735e91a1782a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0363_WYG_000-1a, image: WYG1183/WYG1183-0501a.png}
+body:
+  text: 巽齊文集别集類三宋提要臣等謹案巽齊文集二十七卷宋歐陽守道撰守道字公權初名巽字迂父吉州人嘉祐元年進士授雩都主簿調贛州司户入為祕書省正字纍遷祕書郎罷歸咸淳三年以少傅吕文德薦添差通判建昌軍遷著作佐郎兼崇政殿說書兼權都官郎中終於著作郎事迹具宋史本傳是編分甲乙丙丁戊五集中如復劉學士書辨李習之以守其中為慎獨非中庸本㫖答丁教授書辨劉景雲中心為忠如心為恕之說本之王安石字說非六書本義凡此之類持論咸有根柢非茍立同異史稱守道少孤貧無師自力於學年未三十翕然以德行為鄉郡儒宗蓋崛起特立不由依託門户而來故所見皆出自得也史又稱江萬里作白鷺洲書院首致守道為諸生講說湖南轉運副使吳子良又聘為嶽麓書院山長後萬里為國子祭酒復薦守道充史館檢閲萬里殉節忠臣子良得葉適之傳其林下偶談妙解文章肯綮觀於所主可以知其氣類吉州人文紀略又稱文天祥劉辰翁皆守道門人即守道益可知矣然則讀是集者固未可與諸家語録等類而齊觀也乾隆四十五年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:8352c23f729a57f095a1c3a6be4c05bfa09eb847ee11503d6ddfae5ac9a4d847
+metadata:
+  title: 巽齋文集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:06:04.780599'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0363/KR4d0363_000.txt
+hash: sha256:6b96147bc374c0bb388c7e04bd0aeca4258ad2236f7ed23d58e7cfb4d87db4ed
